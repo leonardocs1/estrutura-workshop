@@ -53,11 +53,11 @@ cd dataprojectstarterkit
 2. Configure a versão correta do Python com `pyenv`:
 
 ```bash
-pyenv install 3.11.5
-pyenv local 3.11.5
+pyenv install 3.13.1
+pyenv local 3.13.1
 ```
 
-3. Configurar poetry para Python version 3.11.5 e ative o ambiente virtual:
+3. Configurar poetry para Python version 3.13.1 e ative o ambiente virtual:
 
 ```bash
 poetry env use 3.11.5
